@@ -27,11 +27,11 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-(Your pseudocode here)
+
 
 ask for 5 seperate numbers
 put numbers into table
-sum of all numbers, assign to rangeAvg
+sum of all numbers divided by number of inputs, assign to rangeAvg
 find minimum of range, assign to rangeMinimum
 find maximum of range, assign to rangeMaximum
 display "The average of the input numbers is (rangeAvg), the range maximum is (rangeMaximum), and the range minimum is (rangeMinimum)
